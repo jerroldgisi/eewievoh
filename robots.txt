@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiwitaipha.rdmerkley.com/sitemap.xml
